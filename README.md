@@ -8,5 +8,5 @@
 
 ***Telegram ID*** : [NobLest](http://telegram.me/NobLest)
 
-***channel :*** [TeleBlasterTeam](https://telegram.me/powerfulteam)
+***channel :*** [PowerFulTeam](https://telegram.me/powerfulteam)
 
