@@ -1,15 +1,5 @@
 <?php
 ob_start();
-/*
-─═ঊঈঊঈ═─╮
-AntiSpamBot
-V 1.o
-Developer : mohammadhosseinheidari
-Bot ID : @GpModeratorBot
-Dev ID : @NOBLEST
-GitAdress : Github.com/NobLestDev/DenyAntiSpam
-─═ঊঈঊঈ═─╯
-*/
 define('API_KEY','توکن شما');
 //-----------------------------------------------------------------------------------------
 //فانکشن MrPHPBot :
